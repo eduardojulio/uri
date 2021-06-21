@@ -7,6 +7,6 @@ int main(){
 
     media = (a * 3.5 + b * 7.5) / 11;
 
-    printf("MEDIA = %.5lf", media);
+    printf("MEDIA = %.5lf\n", media);
     return 0;
 }
